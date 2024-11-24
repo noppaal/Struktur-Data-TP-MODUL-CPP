@@ -1,0 +1,31 @@
+#ifndef HEADER_H_INCLUDED
+#define HEADER_H_INCLUDED
+#define first(L) L.first
+#define next(P) P->next
+#define info(P) P->info
+#include <iostream>
+
+/*103012300239, 0 adalah digit ke-9 NIM. 0 mod 3 adalah 0
+maka data yang disimpan adalah int*/
+
+using namespace std;
+typedef int infotype;
+typedef struct elmList *address;
+
+struct elmList {
+    infotype info;
+    address next;
+};
+
+struct List{
+    address first;
+};
+
+void createList_103012300239(List &L);
+address alokasi_103012300239(infotype x);
+void insertLast_103012300239(List &L, address p);
+void show_103012300239(List &L);
+address findMin_103012300239(List L);
+void insertMid_103012300239(List &L, int value);
+
+#endif // HEADER_H_INCLUDED
