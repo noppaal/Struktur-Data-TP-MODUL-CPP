@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1731058958 source:c:\users\lenovo\desktop\semester 3\tugas semester 3\std lab\tp modul 8 (queue)\assignment modul 8\main.cpp
+	"header.h"
+	<iostream>
+
+1731058933 source:c:\users\lenovo\desktop\semester 3\tugas semester 3\std lab\tp modul 8 (queue)\assignment modul 8\header.cpp
+	"header.h"
+	<iostream>
+
+1731058934 c:\users\lenovo\desktop\semester 3\tugas semester 3\std lab\tp modul 8 (queue)\assignment modul 8\header.h
+	<iostream>
+

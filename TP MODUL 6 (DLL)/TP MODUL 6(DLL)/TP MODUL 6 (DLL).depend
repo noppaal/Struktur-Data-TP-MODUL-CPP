@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1729393237 source:c:\users\lenovo\desktop\semester 3\tugas semester 3\std lab\tp modul 5\tp modul 6 (dll)\main.cpp
+	<iostream>
+	"DLL.h"
+
+1729392705 c:\users\lenovo\desktop\semester 3\tugas semester 3\std lab\tp modul 5\tp modul 6 (dll)\dll.h
+	<iostream>
+
+1729393601 source:c:\users\lenovo\desktop\semester 3\tugas semester 3\std lab\tp modul 5\tp modul 6 (dll)\dll.cpp
+	"DLL.h"
+

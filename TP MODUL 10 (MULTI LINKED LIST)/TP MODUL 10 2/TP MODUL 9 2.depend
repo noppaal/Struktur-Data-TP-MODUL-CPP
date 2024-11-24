@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1731770873 source:c:\users\lenovo\desktop\semester 3\tugas semester 3\std lab\tp modul 9 (multi linked list)\tp modul 9 2\flight.cpp
+	"flight.h"
+	<iostream>
+
+1731770931 c:\users\lenovo\desktop\semester 3\tugas semester 3\std lab\tp modul 9 (multi linked list)\tp modul 9 2\flight.h
+	<iostream>
+
+1731771077 source:c:\users\lenovo\desktop\semester 3\tugas semester 3\std lab\tp modul 9 (multi linked list)\tp modul 9 2\main.cpp
+	"flight.h"
+	<iostream>
+
